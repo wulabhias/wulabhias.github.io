@@ -1,4 +1,4 @@
-# Chenfei Wang Lab Website
+# Gongwei Wu Lab Website
 
 The lab website is built based on [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) and [Bootstrap](https://getbootstrap.com/) framework. For `.html` files, you may need to make some HTML-based changes. For `.md` files, both HTML and Markdown are acceptable.
 

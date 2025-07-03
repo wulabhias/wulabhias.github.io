@@ -1,5 +1,5 @@
 ---
-title: Chenfei Wang
+title: Gongwei Wu
 layout: people
 permalink: /people/chenfei_wang
 status: Principle Investigator

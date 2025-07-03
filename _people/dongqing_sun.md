@@ -1,7 +1,7 @@
 ---
 title: Dongqing Sun
 layout: people
-permalink: /people/dongqing_sun
+permalink: /people/dongqing_su
 status: Staff
 pname: Dongqing Sun
 position: Research Assistant

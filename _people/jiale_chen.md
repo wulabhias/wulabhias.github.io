@@ -5,7 +5,7 @@ permalink: /people/jiale_chen
 status: Student
 pname: Jiale Chen
 position: Master student in Bioinformatics
-eml: wupengpeng@tongji.edu.cn
+eml: 
 website:
 cv:
 github:

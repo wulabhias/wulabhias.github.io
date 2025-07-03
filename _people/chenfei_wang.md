@@ -1,7 +1,7 @@
 ---
 title: Gongwei Wu
 layout: people
-permalink: /people/chenfei_wang
+permalink: /people/Gongwei_Wu
 status: Principle Investigator
 pname: Chenfei Wang
 position: Principle Investigator

@@ -1,11 +1,11 @@
 ---
-title: Leyi Zhang
+title: Shuyue Yang
 layout: people
-permalink: /people/leyi_zhang
+permalink: /people/shuyue_yang
 status: Student
-pname: Leyi Zhang
+pname: Shuyue Yang
 position: Undergraduate student in Bioinformatics
-eml: 2153362@tongji.edu.cn
+eml: 
 website: 
 cv: 
 github:
@@ -14,5 +14,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Leyi Zhang is studying bioinformatics at Tongji University. Her current research focuses on training large language models based on single-cell data and construction of Aging Clock based on blood single-cell datasets.
+desp: 
 ---

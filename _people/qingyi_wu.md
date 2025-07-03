@@ -1,0 +1,18 @@
+---
+title: Qingyi Wu
+layout: people
+permalink: /people/qingyi_wu
+status: Student
+pname: Qingyi Wu
+position: Phd student in Bioinformatics
+eml: 
+website: 
+cv: 
+github: 
+linkedin:
+google_scholar: 
+twitter: 
+facebook: 
+instagram:
+desp: 
+---

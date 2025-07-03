@@ -5,8 +5,8 @@ permalink: /people/Gongwei_Wu
 status: Principle Investigator
 pname: Chenfei Wang
 position: Principle Investigator
-office: 1239 Siping Road, Shanghai 200092
-eml: 08chenfeiwang@tongji.edu.cn
+office: No. 1 Xiangshan Road, Bldg 1, Room 2B202
+eml: wugongwei@ucas.ac.cn
 website: https://wanglabtongji.github.io
 cv: 
 github: https://github.com/wanglabtongji
@@ -15,5 +15,6 @@ google_scholar: https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en
 twitter: https://twitter.com/ChenfeiWangTJ
 facebook: 
 instagram:
-desp: Chenfei Wang received his B.S. and Ph.D. in Bioinformatics from Tongji University in 2012 and 2017, respectively. During his Ph.D. studies, he focused on epigenetic reprogramming and its effects on embryogenesis and cell fate determination in mammalian early embryos and SCNT embryos, utilizing computational methods. In 2018, he joined Xiaole Shirley Liu's lab as a postdoctoral researcher at Dana-Farber Cancer Institute and Harvard University, where he developed algorithms for the integrated analysis of single-cell multi-omic data. Currently, he is a Professor at the School of Life Science and Technology at Tongji University. His research centers on developing computational algorithms and conducting big data mining on high-throughput data to understand the roles of gene regulation and cellular crosstalk in cellular and individual phenotypes during disease development and aging. <br/> Dr. Wang is a recipient of the Ray Wu Prize and a participant in the Shanghai Rising Star Program. He has also received support from the Excellent Youth Program and the General Program of the National Natural Science Foundation of China. He has published over 20 papers as a corresponding author in journals such as Nature Genetics, Nature Cancer, Cell Stem Cell, Genome Biology, and Nucleic Acids Research.
+desp: Gongwei received his B.S. and Ph.D. at Huazhong University of Science and Technology and University of Science and Technology of China in 2011 and 2017, respectively. Gongwei joined Dana-Farber Cancer Institute and Harvard Medical School as a postdoctoral fellow in November 2017 and he was co-mentored by Drs. Myles Brown and David Weinstock. His research has been focused on the molecular pathogenesis of cancer and the development of novel therapeutics. He has integrated interdisciplinary concepts and techniques from molecular genetics, epigenetics, cancer biology, and medical oncology to determine how genetic and epigenetic abnormalities contribute to alterations in signal transduction pathways and gene expression, and how these alterations ultimately lead to malignant transformation and contribute to paraneoplastic features of these diseases. He also developed several novel therapeutic strategies and advanced a couple of clinical trials. He was invited to present his important findings at the AACR Annual Meeting and ASH Annual Meeting. 
+Gongwei is a recipient of the Leukemia & Lymphoma Society (LLS) Career Development Program Fellow Award, LLS SCOR grant, AACR Lymphoma Research Fellowship (Declined), NCI’s COVID award, Daiichi Sankyo research grant, HHMI Scholarship, and the Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. In addition, he is an invited reviewer of multiple journals, such as Molecular Cancer, Advanced Materials, Journal Hematology & Oncology, Advanced Science, Leukemia and eLife. 
 ---

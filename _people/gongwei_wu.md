@@ -1,7 +1,7 @@
 ---
 title: Gongwei Wu
 layout: people
-permalink: /people/Gongwei_Wu
+permalink: /people/gongwei_wu
 status: Principle Investigator
 pname: Gongwei Wu
 position: Principle Investigator

@@ -5,7 +5,7 @@ permalink: /people/chen_chen
 status: Student
 pname: Chen Chen
 position: PhD student in Bioinformatics
-eml: 
+eml: chenchen242@mails.ucas.ac.cn
 website: 
 cv: 
 github: 

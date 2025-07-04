@@ -5,7 +5,7 @@ permalink: /people/jiale_chen
 status: Student
 pname: Jiale Chen
 position: Master student in Bioinformatics
-eml: 
+eml:  jialechen@mail.sdu.edu.cn
 website:
 cv:
 github:

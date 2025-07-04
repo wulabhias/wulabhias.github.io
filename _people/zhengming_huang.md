@@ -5,7 +5,7 @@ permalink: /people/zhengming_huang
 status: Student
 pname: Zhengming Huang
 position: Master student in Bioinformatics
-eml: 
+eml: 2021332864022@mails.zstu.edu.cn
 website: 
 cv: 
 github: 

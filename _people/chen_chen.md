@@ -1,5 +1,5 @@
 ---
-title: Chen Chen
+title: Chen Chen（陈晨）
 layout: people
 permalink: /people/chen_chen
 status: Student

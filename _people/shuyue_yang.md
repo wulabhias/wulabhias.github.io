@@ -3,7 +3,7 @@ title: Shuyue Yang
 layout: people
 permalink: /people/shuyue_yang
 status: Student
-pname: Shuyue Yang
+pname: Shuyue Yang（杨舒月）
 position: Undergraduate student in Bioinformatics
 eml: yangshuyue24@mails.ucas.ac.cn
 website: 

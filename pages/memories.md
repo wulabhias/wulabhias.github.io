@@ -9,5 +9,6 @@ permalink: /memories/
 
 
 <div align="center">
-  <img src="/assets/img/cover.jpg"  width="80%">
+  <img src="/assets/img/cover.jpg" alt="Zhoushan Retreat" width="80%">
 </div>
+

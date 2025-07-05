@@ -7,7 +7,7 @@ pname: Gongwei Wu
 position: Principle Investigator
 office: No. 1 Xiangshan Road, Bldg 1, Room 2B202
 eml: wugongwei@ucas.ac.cn
-website: https://wanglabtongji.github.io
+website: 
 cv: 
 linkedin:
 google_scholar: https://scholar.google.com/citations?user=G4dASwUAAAAJ&hl=en

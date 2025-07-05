@@ -6,7 +6,7 @@ permalink: /positions
 
 # Positions
 
-The laboratory of Professor Gongwei Wu at Hangzhou Institute for Advance Study, UCAS invites applicants for postdoc and graduate positions. The Wu lab also welcomes undergraduate students for intern training. The Wu lab now has openings for the listed positions.
+The laboratory of Professor Gongwei Wu at Hangzhou Institute for Advanced Study, UCAS invites applicants for postdoc and graduate positions. The Wu lab also welcomes undergraduate students for intern training. The Wu lab now has openings for the listed positions.
 
 ### Computational biology postdoc position at the Wu Lab
 Computational biology postdocs will be working on single-cell multi-omics, spatial multi-omics, single-cell CRISPR screens dataset analyses. The full-time postdoctoral compensation is 350K RMB/year, with additional performance reward up to 50K.

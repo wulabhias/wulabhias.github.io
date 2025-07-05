@@ -3,7 +3,7 @@ title: Gongwei Wu（吴功伟）
 layout: people
 permalink: /people/gongwei_wu
 status: Principle Investigator
-pname: Gongwei Wu
+pname: Gongwei Wu（吴功伟）
 position: Principle Investigator
 office: No. 1 Xiangshan Road, Bldg 1, Room 2B202
 eml: wugongwei@ucas.ac.cn

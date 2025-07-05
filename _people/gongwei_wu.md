@@ -1,5 +1,5 @@
 ---
-title: Gongwei Wu
+title: Gongwei Wu（吴功伟）
 layout: people
 permalink: /people/gongwei_wu
 status: Principle Investigator

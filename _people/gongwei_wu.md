@@ -9,7 +9,6 @@ office: No. 1 Xiangshan Road, Bldg 1, Room 2B202
 eml: wugongwei@ucas.ac.cn
 website: https://wanglabtongji.github.io
 cv: 
-github: https://github.com/wanglabtongji
 linkedin:
 google_scholar: https://scholar.google.com/citations?user=G4dASwUAAAAJ&hl=en
 twitter: https://twitter.com/ChenfeiWangTJ

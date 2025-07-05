@@ -1,7 +1,7 @@
 ---
-layout: news
+layout: default
 title: Support
-permalink: /support.md
+permalink: /support/
 ---
 
 # Support

@@ -1,6 +1,8 @@
 ---
 layout: news
 title: Memories
+subtitle: Memories in Wu Lab
+permalink: /memories
 ---
 
 ## 2025 Lab Retreat in Zhoushan Islands!

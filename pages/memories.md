@@ -2,7 +2,7 @@
 layout: default
 title: Memories
 subtitle: Memories in Wu Lab
-permalink: /memories
+permalink: /memories/
 ---
 
 ## 2025 Lab Retreat in Zhoushan Islands!

@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Support
-permalink: /support
+permalink: /support.md
 ---
 
 # Support

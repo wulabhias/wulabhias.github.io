@@ -7,6 +7,7 @@ permalink: /memories/
 
 ## 2025 Lab Retreat in Zhoushan Islands!
 
+
 <div align="center">
-  <img src="/assets/img/cover.jpg" alt="Lab Retreat" width="700px"> 
+  <img src="/assets/img/memories/cover.jpg" alt="Zhoushan Retreat" width="80%">
 </div>

@@ -11,7 +11,7 @@ website: https://wanglabtongji.github.io
 cv: 
 github: https://github.com/wanglabtongji
 linkedin:
-google_scholar: https://scholar.google.com/citations?user=ZwKmcpYAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=G4dASwUAAAAJ&hl=en
 twitter: https://twitter.com/ChenfeiWangTJ
 facebook: 
 instagram:

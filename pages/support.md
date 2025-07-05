@@ -1,8 +1,8 @@
 ---
 layout: news
 title: Support
+permalink: /support
 ---
-
 
 # Support
 
